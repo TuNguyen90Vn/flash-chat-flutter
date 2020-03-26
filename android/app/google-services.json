@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728424673424",
+    "firebase_url": "https://flash-chat-253c6.firebaseio.com",
+    "project_id": "flash-chat-253c6",
+    "storage_bucket": "flash-chat-253c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728424673424:android:ba2f35ea18461ce4272815",
+        "android_client_info": {
+          "package_name": "com.tony.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728424673424-tg254l0ifu2koupsjun1454mnidvvepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8a3oOD80jw5Dwy36axpWTYlJD-lgMVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728424673424-tg254l0ifu2koupsjun1454mnidvvepl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728424673424-kjbsol1icfe9a5i29loaa97oid7qskub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.tony.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
